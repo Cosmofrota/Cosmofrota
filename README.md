@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <h1>Eu sou o Cosmo Frota, sou programador Front End. Atualmente estou criando projetos com as segintes tecnologias:</h1>
+Eu sou o Cosmo Frota, sou programador Front End. Atualmente estou criando projetos com as segintes tecnologias:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
